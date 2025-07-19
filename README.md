@@ -1,0 +1,2 @@
+# python-ollama
+basic example
